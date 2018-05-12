@@ -1,10 +1,16 @@
 _repo: Die-Sebalduskirche-in-Nurnberg_50120
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50120-h/images/cover.jpg
 creator:
   author:
     agent_name: Hoffmann, Wilhelm Friedrich
     gutenberg_agent_id: '45714'
     url: http://www.gutenberg.org/2009/agents/45714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50120#Die-Sebalduskirche-in-Nurnberg
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
